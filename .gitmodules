@@ -50,3 +50,9 @@
 [submodule "protocol-v2"]
 	path = protocol-v2
 	url = git@github.com:aave/protocol-v2.git
+[submodule "aave-governance-v3"]
+	path = aave-governance-v3
+	url = git@github.com:bgd-labs/aave-governance-v3.git
+[submodule "aave-delivery-infrastructure"]
+	path = aave-delivery-infrastructure
+	url = git@github.com:bgd-labs/aave-delivery-infrastructure.git
